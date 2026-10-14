@@ -4,6 +4,8 @@
 
 # netmon
 
+<p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows"> <img src="https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="CLI"></p>
+
 Windows LAN monitor — инвентаризация устройств, DNS-лог, захват трафика, роутер-сёрф.
 
 Требует прав **администратора**. Работает только на Windows (PktMon, ETW).
@@ -68,4 +70,4 @@ captures/       pcap-файлы (в .gitignore)
 
 `PLAN → ISSUE → BRANCH → WORK → TEST → PR → REVIEW → MERGE`
 
-Команда: **RIG / KAI / NOVA**. NODE — фирменный маскот. [Правила работы](https://github.com/Xnode-sh/RED-TEAM-LAB/blob/main/WORKFLOW.md).
+Команда: **FREYA / LIRA / KRIPTO**. NODE — фирменный маскот. [Правила работы](https://github.com/Xnode-sh/RED-TEAM-LAB/blob/main/WORKFLOW.md).
