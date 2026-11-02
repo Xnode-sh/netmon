@@ -70,4 +70,4 @@ captures/       pcap-файлы (в .gitignore)
 
 `PLAN → ISSUE → BRANCH → WORK → TEST → PR → REVIEW → MERGE`
 
-Команда: **FREYA / LIRA / KRIPTO**. NODE — фирменный маскот. [Правила работы](https://github.com/Xnode-sh/RED-TEAM-LAB/blob/main/WORKFLOW.md).
+Команда: **FREYA / LIRA / KRIPTO / TRACE**. NODE — фирменный маскот. [Правила работы](https://github.com/Xnode-sh/RED-TEAM-LAB/blob/main/WORKFLOW.md).
